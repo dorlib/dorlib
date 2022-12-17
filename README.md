@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorlib
-- 👀 I’m interested in Web Development, software engineering.
-- 🌱 I’m currently learning How to create fully working web app with golang, ent, grpahql and react. 
+- 👀 I’m interested in software engineering, cloud engineering, microservices, SaaS development.
+- 🌱 I’m currently learning Golang design patterns, SaaS architecture, cloud software engineering . 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... dorlibrm@gmail.com
 
