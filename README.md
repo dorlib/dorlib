@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... dorlibrm@gmail.com
 
-![](https://komarev.com/ghpvc/?username=dorlib)
-
 # 📊 GitHub Stats:
 ![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorlib&show_icons=true&theme=tokyonight)
 
