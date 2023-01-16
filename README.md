@@ -5,7 +5,7 @@
 - 📫 How to reach me... dorlibrm@gmail.com
 
 # 📊 GitHub Stats:
-![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorlib&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dorlib/dorlib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
