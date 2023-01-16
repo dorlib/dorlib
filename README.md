@@ -5,7 +5,7 @@
 - 📫 How to reach me... dorlibrm@gmail.com
 
 # 📊 GitHub Stats:
-| <a href="https://github.com/dorlib/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dorlib&show_icons=true&hide_border=false&theme=merko" alt="Dor's github stats" /></a> | <a href="https://github.com/dorlib/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorlib&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook" /></a> |
+| <a href="https://github.com/dorlib/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dorlib&show_icons=true&hide_border=false&theme=merko" alt="Dor's github stats" /></a> | <a href="https://github.com/dorlib/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorlib&layout=compact&theme=merko&hide_border=true&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
 
 <!---
